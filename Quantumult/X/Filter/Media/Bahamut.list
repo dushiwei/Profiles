@@ -4,3 +4,8 @@ DOMAIN-SUFFIX,bahamut.com.tw,Bahamut
 DOMAIN-SUFFIX,gamer.com.tw,Bahamut
 DOMAIN,gamer-cds.cdn.hinet.net,Bahamut
 DOMAIN,gamer2-cds.cdn.hinet.net,Bahamut
+# > 愛奇藝台灣站
+DOMAIN,cache.video.iqiyi.com,Bahamut
+# > bilibili
+DOMAIN,api.bilibili.com,Bahamut
+DOMAIN,upos-hz-mirrorakam.akamaized.net,Bahamut
